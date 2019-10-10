@@ -1,0 +1,12 @@
+c:\users\cj3000974\source\repos\PizzariaJoaoPuccini\PizzariaJoaoPuccini\bin\Debug\PizzariaJoaoPuccini.exe.config
+c:\users\cj3000974\source\repos\PizzariaJoaoPuccini\PizzariaJoaoPuccini\bin\Debug\PizzariaJoaoPuccini.exe
+c:\users\cj3000974\source\repos\PizzariaJoaoPuccini\PizzariaJoaoPuccini\bin\Debug\PizzariaJoaoPuccini.pdb
+c:\users\cj3000974\source\repos\PizzariaJoaoPuccini\PizzariaJoaoPuccini\obj\Debug\PizzariaJoaoPuccini.csprojAssemblyReference.cache
+c:\users\cj3000974\source\repos\PizzariaJoaoPuccini\PizzariaJoaoPuccini\obj\Debug\PizzariaJoaoPuccini.Form1.resources
+c:\users\cj3000974\source\repos\PizzariaJoaoPuccini\PizzariaJoaoPuccini\obj\Debug\PizzariaJoaoPuccini.Properties.Resources.resources
+c:\users\cj3000974\source\repos\PizzariaJoaoPuccini\PizzariaJoaoPuccini\obj\Debug\PizzariaJoaoPuccini.csproj.GenerateResource.cache
+c:\users\cj3000974\source\repos\PizzariaJoaoPuccini\PizzariaJoaoPuccini\obj\Debug\PizzariaJoaoPuccini.csproj.CoreCompileInputs.cache
+c:\users\cj3000974\source\repos\PizzariaJoaoPuccini\PizzariaJoaoPuccini\obj\Debug\PizzariaJoaoPuccini.exe
+c:\users\cj3000974\source\repos\PizzariaJoaoPuccini\PizzariaJoaoPuccini\obj\Debug\PizzariaJoaoPuccini.pdb
+C:\Users\cj3000974\source\repos\PizzariaJoaoPuccini\PizzariaJoaoPuccini\obj\Debug\PizzariaJoaoPuccini.TelaCadastroCliente.resources
+C:\Users\cj3000974\source\repos\PizzariaJoaoPuccini\PizzariaJoaoPuccini\obj\Debug\PizzariaJoaoPuccini.TelaCadastroProduto.resources
